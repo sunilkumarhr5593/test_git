@@ -1,0 +1,81 @@
+
+     The below program restarts 10 times with random keys.
+     Two pairs of key will be swapped during key modification.
+     The algorithm runs for 200 samples with key modification
+
+
+The input text is :  defendtheeastwallofthecastle
+
+The cipher text is :  qcvclqboccwjbmwggfvbocdwjbgc
+
+The decryption key is:  wzdqcvaonktghlfesxjbiymurp
+
+
+========  The hill climbimg algorithm with random restart starts now  ======================
+
+The initial random key is:  ygohjscblfdvaprtzknwmuxeqi
+The initial key has a prob value of -502.2781640916203 and the key is ygohjscblfdvaprtzknwmuxeqi : 
+The prob using best key is -409.41427723012833 and the key is ygohjsltcrdvkpfbzanwmuxeqi
+
+The initial random key is:  ulgavcpsowyexmindzbhqftjrk
+The initial key has a prob value of -482.88219418949757 and the key is ulgavcpsowyexmindzbhqftjrk : 
+The prob using best key is -397.83330435023896 and the key is wlgavcpsouybxjintzehqfdmrk
+
+The initial random key is:  tvjmsirfzehlucbpxwyonqgakd
+The initial key has a prob value of -444.3159743372495 and the key is tvjmsirfzehlucbpxwyonqgakd : 
+The prob using best key is -384.31040140879657 and the key is tfjmeirvzshluobpxwgcnqyakd
+
+The initial random key is:  ayxdzihgwlcrspmoqtbkvujnef
+The initial key has a prob value of -516.0083939152632 and the key is ayxdzihgwlcrspmoqtbkvujnef : 
+The prob using best key is -407.9297536386173 and the key is oyxdzihgwlpqscmartjkvubnef
+
+The initial random key is:  gihyltabodecrunvzqjswpxkmf
+The initial key has a prob value of -376.52943225853227 and the key is gihyltabodecrunvzqjswpxkmf : 
+The prob using best key is -347.49673704536826 and the key is gihyltasodecruvnpqjbwzkxmf
+
+The initial random key is:  trbvmwnshkpgxifuyecdjlqoaz
+The initial key has a prob value of -440.01009078620393 and the key is trbvmwnshkpgxifuyecdjlqoaz : 
+The prob using best key is -374.3483191207509 and the key is crbvmwnsqkpgxjfuyotdilheaz
+
+The initial random key is:  zgkeupwhjonvtqimdlfryxcsab
+The initial key has a prob value of -564.0518419253572 and the key is zgkeupwhjonvtqimdlfryxcsab : 
+The prob using best key is -461.29194106303845 and the key is zgkeupwvjrnhtqcmslfoyxidab
+
+The initial random key is:  gvcrwpybkautmqjlesizdnofxh
+The initial key has a prob value of -463.25357097471164 and the key is gvcrwpybkautmqjlesizdnofxh : 
+The prob using best key is -387.9863664476596 and the key is gzcrbpywkautojqlesivdnmfxh
+
+The initial random key is:  rkagvtscldqoizxyphwbefumnj
+The initial key has a prob value of -497.02365223910317 and the key is rkagvtscldqoizxyphwbefumnj : 
+The prob using best key is -415.39200988825723 and the key is rkogwtscluzaiqxyphvbefdmnj
+
+The initial random key is:  ryvhkgetaimpdxjoswluqfnczb
+The initial key has a prob value of -542.4680394276396 and the key is ryvhkgetaimpdxjoswluqfnczb : 
+The prob using best key is -437.1649880959933 and the key is ryvhcgetpimawxjosdlqufnkzb
+
+The initial random key is:  elhvrqgfdymaiposjtwnkzxucb
+The initial key has a prob value of -544.7414532041913 and the key is elhvrqgfdymaiposjtwnkzxucb : 
+The prob using best key is -475.3443650483519 and the key is einvcqgfdymalpostjwhkzxurb
+
+==================  The hill climbing algorihm with random restart ends here    ====================
+
+
+     ==============  Final prob and key  ========================    
+
+The max prob among the all the iteration is -347.49673704536826 and the key is gihyltasodecruvnpqjbwzkxmf
+
+The original decryption key is:  wzdqcvaonktghlfesxjbiymurp
+The selected key from this case is:  gihyltasodecruvnpqjbwzkxmf
+
+
+Summation of Identical elements : 3
+The similarity percentage between original key and selected key is:  0.11538461538461539
+open text from the key gihyltasodecruvnpqjbwzkxmf  having max prob  -347.49673704536826  is  rlolertillustyuaazotiljustal  
+
+This runtime of the program is 3.6187026500701904 seconds ---
+
+('{"platform": "Linux", "platform-release": "5.0.0-36-generic", '
+ '"platform-version": "#39~18.04.1-Ubuntu SMP Tue Nov 12 11:09:50 UTC 2019", '
+ '"architecture": "x86_64", "hostname": '
+ '"sunilkumarhr5593-Lenovo-ideapad-500-15ISK", "ip-address": "192.168.179.58", '
+ '"mac-address": "3b:92:71:d7:e7:41", "processor": "x86_64", "ram": "8 GB"}')
